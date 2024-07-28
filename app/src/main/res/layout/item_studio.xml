@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/rounded_image"
+    android:padding="6dp">
+
+    <com.example.ap3.ui.home.RoundedImageView
+        android:id="@+id/image_studio"
+        android:layout_width="114dp"
+        android:layout_height="164dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/studio_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:text="Tom Studio" />
+
+    <TextView
+        android:id="@+id/studio_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:text="Sigura-gura" />
+
+    <TextView
+        android:id="@+id/studio_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:text="Rp 40k/hours" />
+
+    <RatingBar
+        android:id="@+id/rating_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:rating="4.8"
+        android:stepSize="0.1"
+        style="?android:attr/ratingBarStyleSmall"/>
+</LinearLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1034854384867",
+    "firebase_url": "https://ap3-3c9d6-default-rtdb.firebaseio.com",
+    "project_id": "ap3-3c9d6",
+    "storage_bucket": "ap3-3c9d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034854384867:android:238efcf28c6659ce1c31d6",
+        "android_client_info": {
+          "package_name": "com.example.ap3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDVXCoLAWrAMWltaIbDq-06JHFRPuhBlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
