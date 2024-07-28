@@ -1,0 +1,141 @@
+{
+  "Item": [
+    {
+      "address": "Jalan Kembang Kembangan no 11 Lawang",
+      "description": "Studio ini merupakan studio yang dimiliki oleh Stephen Curry",
+      "facilities": [
+        "Wi-Fi",
+        "Parking",
+        "Air Conditioning"
+      ],
+      "name": "Studio Tom",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio1.png?alt=media&token=d1058157-89ab-4717-9844-645c5416abdd",
+      "price": "Rp 5.000/jam",
+      "rate": 4.5,
+      "type": "new"
+    },
+    {
+      "address": "Jalan Raya Maharaja no 889 Galunggung",
+      "description": "Studio ini merupakan studio yang dimiliki oleh Cristiano Ronaldo yang terletak di Galunggung",
+      "facilities": [
+        "Wi-Fi",
+        "Food Court",
+        "3D Screens"
+      ],
+      "name": "Studio Vicenzo",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio2.png?alt=media&token=6833c7f4-e732-44b7-9a04-c76bf063e08a",
+      "price": "Rp 25.000/jam",
+      "rate": 4.8,
+      "type": "hot"
+    },
+    {
+      "address": "Jalan Raya Maharaja no 889 Galunggung",
+      "description": "Studio ini merupakan studio yang dimiliki oleh Cristiano Ronaldo yang terletak di Galunggung",
+      "facilities": [
+        "Wi-Fi",
+        "Food Court",
+        "3D Screens"
+      ],
+      "name": "Studio Vicenzo",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio2.png?alt=media&token=6833c7f4-e732-44b7-9a04-c76bf063e08a",
+      "price": "Rp 25.000/jam",
+      "rate": 4.8,
+      "type": "new"
+    },
+    {
+      "address": "Jalan Jalanan sek no 90",
+      "description": "Studio ini merupakan studio yang dimiliki oleh Bapak nya Yosi",
+      "facilities": [
+        "IMAX",
+        "Wi-Fi",
+        "Parking"
+      ],
+      "name": "Studio One for all",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio2.png?alt=media&token=6833c7f4-e732-44b7-9a04-c76bf063e08a",
+      "price": "Rp 15.000/jam",
+      "rate": 4.3,
+      "type": "new"
+    },
+    {
+      "address": "Jalan Pisang Musangking no 02 Suhat, Malang",
+      "description": "Studio ini merupakan studio yang dimiliki oleh Bill Abraham ririhena yang didirikan abad 1 sebelum masehi",
+      "facilities": [
+        "Wi-Fi",
+        "VIP Lounges",
+        "Air Conditioning"
+      ],
+      "name": "Studio Mr Beast",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio4.png?alt=media&token=77c63129-1c33-4f6b-ae42-93ad33774ba2",
+      "price": "Rp 5.000/jam",
+      "rate": 4.3,
+      "type": "hot"
+    },
+    {
+      "address": "Jalan Kembang Kembangan no 11 Lawang",
+      "description": "Studio ini merupakan studio yang dimiliki oleh Bapak nya Budi yang bernama Yanto",
+      "facilities": [
+        "Wi-Fi"
+      ],
+      "name": "Studio Budi",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio5.png?alt=media&token=c1539890-8854-44cf-82fb-4607a91d27de",
+      "price": "Rp 50.000/jam",
+      "rate": 2.5,
+      "type": "new"
+    },
+    {
+      "address": "Jalan Raya Maharaja no 889 Galunggung, Malang",
+      "description": "Studio ini merupakan studio yang dimiliki oleh Ishowspeed yang terletak di Galunggung",
+      "facilities": [
+        "Wi-Fi",
+        "Food Court"
+      ],
+      "name": "Studio KoPY",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio6.png?alt=media&token=8b0ebf65-e1ae-4fef-adaa-c0862c5bfbcf",
+      "price": "Rp 25.000/jam",
+      "rate": 4.1,
+      "type": "new"
+    },
+    {
+      "address": "Jalan Balonku ada no 5 Pakis, Malang",
+      "description": "Studio ini merupakan studio yang memiliki musuh yaitu studio One for All",
+      "facilities": [
+        "Wi-Fi",
+        "Parking"
+      ],
+      "name": "Studio All for One",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio7.png?alt=media&token=22d2764b-453f-4781-8538-9070f5d84776",
+      "price": "Rp 15.000/jam",
+      "rate": 3.3,
+      "type": "new"
+    },{
+      "address": "Jalan Santai Selalu no 11 Lowokwaru, Malang",
+      "description": "Studio ini merupakan Studi yang ingin menyalip follower Mr Beast",
+      "facilities": [
+        "Wi-Fi",
+        "VIP Lounges",
+        "Air Conditioning",
+        "Parking"
+      ],
+      "name": "Studio Mr Willisalim",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio8.png?alt=media&token=bf1c8a8b-9129-47b0-8c42-e56ae8038cf7",
+      "price": "Rp 75.000/jam",
+      "rate": 5,
+      "type": "new"
+    },
+    {
+      "address": "Jalan Santai Selalu no 11 Lowokwaru, Malang",
+      "description": "Studio ini merupakan Studi yang ingin menyalip follower Mr Beast",
+      "facilities": [
+        "Wi-Fi",
+        "VIP Lounges",
+        "Air Conditioning",
+        "Parking"
+      ],
+      "name": "Studio Mr Willisalim",
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/ap3-3c9d6.appspot.com/o/studio8.png?alt=media&token=bf1c8a8b-9129-47b0-8c42-e56ae8038cf7",
+      "price": "Rp 75.000/jam",
+      "rate": 5,
+      "type": "hot"
+    }
+  ]
+}
